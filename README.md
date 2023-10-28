@@ -1,6 +1,6 @@
 # Rock-Paper-Scissors
 
-Rock Paper Scissors game prepared using GUI.
+A Rock-Ppaer-Scissors game developed with the Swing library.
 
 ![rps_1](https://github.com/emirsansar/Rock-Paper-Scissors/assets/92544814/997e852f-1bda-48a6-8274-e2b1fec02aff)
 
